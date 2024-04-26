@@ -3,7 +3,7 @@ I was assigned this project to analyse the dataset at hand to complete the modul
 
 
 ## About the Project
-This project is based around the [Palmer Penguins Dataset](https://allisonhorst.github.io/palmerpenguins/) and for this project I am being provided an opportunity to aplly the knowledge and skills that I have acquired through this module to analyse the dataset effectively.
+This project is based around the [Palmer Penguins Dataset](https://allisonhorst.github.io/palmerpenguins/) and for this project I am being provided an opportunity to apply the knowledge and skills that I have acquired through this module to analyse the dataset effectively.
 
 ## Tasks
 

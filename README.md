@@ -26,3 +26,22 @@ This project is based around the [Palmer Penguins Dataset](https://allisonhorst.
  - Pearson Correlation Coefficients
  - End
  
+## References
+
+I used the following websites to assist with my research for this topic.
+
+- Alison Horst's Palmer Penguins Data on [Github](https://allisonhorst.github.io/palmerpenguins/)
+
+- Seaborn Data on [Github](https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv)
+
+- [W3 Schools](https://www.w3schools.com/python/)
+
+- [Pydata](https://pandas.pydata.org/)
+
+- [Real Python](https://realpython.com/)
+
+- [Numpy](https://numpy.org/)
+
+- [Matplotlib](https://matplotlib.org/)
+
+When I was struggling with some aspects of this project. I used that ai software [Chat GPT](https://chat.openai.com/). I used this as a guideline to try and understand what issues I was having and then implemented them once I was able to grasp what I was doing.

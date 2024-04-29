@@ -1,7 +1,3 @@
-# Principles Of Data Analytics Project
-I was assigned this project to analyse the dataset at hand to complete the module Principles of Data Analytics in Semester 1 of the course Higher Diploma in Science in Data Analytics at [ATU Galway](https://www.gmit.ie/higher-diploma-in-science-in-computing-in-data-analytics)
-
-
 ## About the Project
 This project is based around the [Palmer Penguins Dataset](https://allisonhorst.github.io/palmerpenguins/) and for this project I am being provided an opportunity to apply the knowledge and skills that I have acquired through this module to analyse the dataset effectively.
 
@@ -35,6 +31,34 @@ This project is based around the [Palmer Penguins Dataset](https://allisonhorst.
  - Pearson Correlation Coefficients
 
  - End
+
+ ## Palmer Penguins Dataset Analysis
+
+The Palmer Penguins dataset is a collection of data on penguin populations observed near the Palmer Archipelago, Antarctica.
+
+#### Data Description
+
+The dataset contains data for several penguin species, including:
+ - Adelie penguin (Adelie)
+ - Chinstrap penguin (Chinstrap)
+ - Gentoo penguin (Gentoo)
+ - Each data point consists of various features for individual penguins, such as:
+ - Island: The island where the penguin was observed (Biscoe, Dream, or Torgersen)
+ - Species: The penguin species (Adelie, Chinstrap, or Gentoo)
+ - Bill Length (mm): Length of the penguin's bill in millimeters
+ - Bill Depth (mm): Depth of the penguin's bill in millimeters
+ - Flipper Length (mm): Length of the penguin's flipper in millimeters
+ - Body Mass (g): Body mass of the penguin in grams
+ - Sex: Sex of the penguin (Adult Male, Adult Female, Juvenile)
+ - Breeding: Breeding status (Breeding, Non-breeding)
+ - Potential Uses
+
+#### The Palmer Penguins dataset can be used for various machine learning tasks, including:
+
+Classification: Classifying penguin species based on their physical measurements.
+Regression: Predicting body mass or flipper length based on other features.
+Exploratory Data Analysis (EDA): Understanding the distribution of features, identifying correlations between features, and visualizing data patterns.
+Anomaly Detection: Detecting outliers or unusual data points that might indicate errors or unique penguin characteristics.
  
 ## References
 

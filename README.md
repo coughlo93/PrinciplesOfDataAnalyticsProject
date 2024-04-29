@@ -33,7 +33,7 @@ This project is based around the [Palmer Penguins Dataset](https://allisonhorst.
  - Correlation Analysis
 
  - Pearson Correlation Coefficients
- 
+
  - End
  
 ## References
@@ -53,5 +53,7 @@ I used the following websites to assist with my research for this topic.
 - [Numpy](https://numpy.org/)
 
 - [Matplotlib](https://matplotlib.org/)
+
+- [Image from Gabriel Mednick](https://www.gabemednick.com/post/penguin/)
 
 When I was struggling with some aspects of this project. I used that ai software [Chat GPT](https://chat.openai.com/). I used this as a guideline to try and understand what issues I was having and then implemented them once I was able to grasp what I was doing.

@@ -15,15 +15,25 @@ This project is based around the [Palmer Penguins Dataset](https://allisonhorst.
 ## Index
 
  - Palmer Penguins Title & Image
+
  - Import Pandas
+
  - Load the Data
+
  - Inspect The Data
+
  - Overview of the Dataset
+
  - Model The Variables In The Dataset
+
  - Bar Chart of Species
+
  - Histogram
+
  - Correlation Analysis
+
  - Pearson Correlation Coefficients
+ 
  - End
  
 ## References

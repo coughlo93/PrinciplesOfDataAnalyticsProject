@@ -11,3 +11,18 @@ This project is based around the [Palmer Penguins Dataset](https://allisonhorst.
 - Find the palmerpenguins data set online and load it into your Jupyter notebook. In your notebook, give an overview of the data set and the variables it contains.
 - Suggest the types of variables that should be used to model the variables in the data set in Python, explaining your rationale.
 - Create a bar chart of an appropriate variable in the data set. Then create a histogram of an appropriate variable in the data set.
+
+## Index
+
+ - Palmer Penguins Title & Image
+ - Import Pandas
+ - Load the Data
+ - Inspect The Data
+ - Overview of the Dataset
+ - Model The Variables In The Dataset
+ - Bar Chart of Species
+ - Histogram
+ - Correlation Analysis
+ - Pearson Correlation Coefficients
+ - End
+ 
